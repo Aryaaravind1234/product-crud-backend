@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "laptop",
+      "price": "400000",
+      "category": "electronics",
+      "id": "dW5ohKpzrM8"
+    },
+    {
+      "name": "Mobile Phone",
+      "price": "25000",
+      "category": "electronics",
+      "id": "OcaDSfJi2a4"
+    },
+    {
+      "name": "arya aravind",
+      "price": "34555",
+      "category": "electronics",
+      "id": "CSMIlmh7DJk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
